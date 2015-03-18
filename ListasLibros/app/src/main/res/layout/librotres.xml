@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <ImageView
+        android:layout_width="128dp"
+        android:layout_height="128dp"
+        android:id="@+id/imageView" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Esta síntesis del libro Padre rico Padre pobre, puede resultarte muy provechosa. Es un ensayo a modo de resumen de los conceptos principales. Es muy bueno contar con una recopilación de la obra explicada brevemente para poder repasar lo que Robert Kiyosaki, junto a Sharon Lechter, nos enseñan en el libro Padre rico Padre pobre:  No es un resumen textual, trata de brindar un plus aclarando conceptos. No es mi intención  hacer plagios de la obra, por el contrario siempre incentivo a que adquieran el libro Padre Rico Padre  Pobre, y todos los escritos por Robert Kiyosaki, en su versión original. - See more at: http://www.libropadrericopadrepobre.com/sintesis-del-libro-padre-rico-padre-pobre-resumen-de-conceptos.php#sthash.pSCtCwOH.dpuf"
+        android:id="@+id/textView3" />
+</LinearLayout>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <Gallery
+        android:layout_width="match_parent"
+        android:layout_height="113dp"
+        android:id="@+id/gallery9" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="El caballero es una persona con muy buenas intenciones, que todo el tiempo está intentando de realizar actos heroicos, para su propia satisfacción y para que todas las personas que lo rodean tengan siempre una imagen de él como alguien de gran corazón y de nobles ideales. A tal grado llega su emocion por causar esta buena impresión que olvida y deja de lado la importancia del contacto con su familia, su esposa y su hijo, y con todo ser que no fuera el y su amada armadura. "
+        android:id="@+id/textView11" />
+</LinearLayout>

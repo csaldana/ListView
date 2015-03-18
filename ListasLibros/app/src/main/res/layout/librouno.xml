@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <Gallery
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/gallery"
+        android:layout_weight="0.32" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="La vida en Alemania  Ana Frank nace el 12 de junio 1929 en la ciudad alemana de Fráncfort del Meno, donde la familia de su padre lleva viviendo varias generaciones. Margot, hermana mayor de Ana, es tres años mayor que esta. La crisis económica, el surgimiento de Hitler y el creciente sentimiento antisemita en la sociedad ponen fin a la tranquila vida de la familia. Otto Frank y Edith, su esposa, deciden – como muchos otros judíos – dejar Alemania."
+        android:id="@+id/textView"
+        android:layout_weight="0.47" />
+</LinearLayout>

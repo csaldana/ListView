@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <Gallery
+        android:layout_width="match_parent"
+        android:layout_height="129dp"
+        android:id="@+id/gallery6" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="La humanidad ha estado a punto de extinguirse a causa de una serie de terri­bles guerras. Por eso, la sociedad creada al comienzo de la gran paz ha decidido agrupar a las personas en cinco facciones que tratan de erradicar los males que les llevaron a la guerra. Quienes culpaban la agresividad, crearon Cordialidad. Los que culpaban la ignorancia, se agruparon en Erudición. Contra el engaño surgió Verdad, contra el egoísmo, Abnegación, y contra la cobardía, Osadía."
+        android:id="@+id/textView8" />
+</LinearLayout>

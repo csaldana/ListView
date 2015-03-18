@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.jonathan.listaslibros" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".Librouno"></activity>
+        <activity android:name=".Librodos"></activity>
+        <activity android:name=".Librotres"></activity>
+        <activity android:name=".Librocuatro"></activity>
+        <activity android:name=".Librocinco"></activity>
+        <activity android:name=".Libroseis"></activity>
+        <activity android:name=".Librosiete"></activity>
+        <activity android:name=".Libroocho"></activity>
+        <activity android:name=".Libronueve"></activity>
+        <activity android:name=".Librodiez"></activity>
+    </application>
+
+</manifest>

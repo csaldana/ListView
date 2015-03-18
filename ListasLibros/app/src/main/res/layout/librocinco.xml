@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <Gallery
+        android:layout_width="match_parent"
+        android:layout_height="184dp"
+        android:id="@+id/gallery5" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Frida Kahlo nació Magdalena Carmen Frida Kahlo y Calderón en Coyoacán, México, el 6 de Julio de 1907. Frida era una de las cuatro hijas de un padre judío-húngaro y una madre de ascendencia indígena-mexicana. Originalmente no planeaba el convertirse en una artista. Una superviviente de polio, empezó un programa de pre-medicina en la ciudad de México. A la edad de 18, sufrió graves heridas en un accidente de autobús. Paso alrededor de un año en la cama, recuperándose de roturas en su columna vertebral, hombros y costillas, una pelvis astillada y danos en el pie. Sufrió más de 30 operaciones a lo largo de su vida y durante su convalecencia empezó a pintar. Sus pinturas, principalmente autorretratos y naturalezas muertas, eran deliberadamente ingenuas y llenas de colores y formas inspiradas en arte folklórico mexicano. Cuando tenía 22 años, se casó con el muralista mexicano Diego Rivera, 20 años mayor que ella. Esta relación tormentosa y apasionada sobrevivió infidelidades, la presión de sus carreras, el divorcio, una segunda boda, los asuntos amorosos lésbicos de Frida, su mala salud y su incapacidad de tener niños. Frida una vez dijo: &quot;Sufrí dos graves accidentes en mi vida….Uno en el cual un tranvía me arrolló y el segundo fue Diego&quot;."
+        android:id="@+id/textView7" />
+</LinearLayout>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <Gallery
+        android:layout_width="match_parent"
+        android:layout_height="131dp"
+        android:id="@+id/gallery7" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Síntesis: La historia trata de un viejo y solitario pescador agobiado por muchos años de trabajo llamado Santiago, cuyo único amigo es un muchacho al cuál enseño a pescar a muy temprana edad conocido por todos como Manolín. Santiago hacia varios años que perdió a su esposa de la que conservaba una foto que guardaba en un cajón para no recordar lo viejo y solo que estaba. La gente del pueblo conocía a Santiago de muchos años atrás cuando el era joven, y le llamaban Santiago El Campeón, por su hazaña en un pulso contra un negro sudamericano que duró dos días pero por lo que realmente era conocido Santiago era por su mala suerte en el mar, sobre todo a la hora de pescar ya que llevaba 84 días sin recoger ningún. "
+        android:id="@+id/textView9" />
+</LinearLayout>

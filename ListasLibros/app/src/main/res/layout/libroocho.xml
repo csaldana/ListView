@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <Gallery
+        android:layout_width="match_parent"
+        android:layout_height="105dp"
+        android:id="@+id/gallery8" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Un muchacho llamado Santiago era un pastor en el área de Andalucía un día ya estaba anocheciendo y guío a sus ovejas hasta unas ruinas de una iglesia para dormir; a mitad de la noche despertó había tenido un sueño repetido, se acordó de que en 4 días llegaría a Tarifa donde vivía una vieja que interpretaba los sueños, además iva a vender lana en ese lugar. "
+        android:id="@+id/textView10" />
+</LinearLayout>

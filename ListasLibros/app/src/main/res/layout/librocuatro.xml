@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <Gallery
+        android:layout_width="match_parent"
+        android:layout_height="203dp"
+        android:id="@+id/gallery4" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="El Principito es una de las obras más características de Antoine de Saint Exuspéry, en francés su titulo es “Le petit prince”, al castellano se tradujo como “El principito” cuando su traducción debería ser El pequeño príncipe ya que esto tiene un carácter más filosófico que la actual traducción ya que parece un cuento infantil, y la idea del autor no era hacer una cuento infantil sino una reflexión personal para que el hombre se encontrara a si mismo y encontrara sus valores, y nunca perdiera el espíritu de niño que hay en su interior.  “El principito”, protagoniza un libro en el cual el sentido de la acción, el valor de la amistad, el heroísmo como meta, la felicidad como el cumplimiento del deber y la responsabilidad como motor de una vida idealista mantiene existente la moral, parece encontrar su raíz y su meta en el mundo de la infancia, el añorado “planeta” del que todos los hombres han sido exiliados y sólo pueden regresar por medio de la fabulación. "
+        android:id="@+id/textView6" />
+</LinearLayout>

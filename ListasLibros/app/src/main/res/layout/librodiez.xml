@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <Gallery
+        android:layout_width="match_parent"
+        android:layout_height="160dp"
+        android:id="@+id/gallery10" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Tris, Cuatro, Caleb, Peter y Marcus viajan a Cordialidad, sobreviviendo al ataque a Abnegación. Cordialidad emite un comunicado dictando que todas las facciones pueden buscar refugio en ella siempre y cuando residan en paz. Tris oye a Marcus hablar con la líder de Cordialidad, Johanna Reyes, confesándole que los líderes de abnegación murieron para proteger un secreto. Más tarde, Tris se enfrenta a Marcus y exige saber la verdad. Él se niega a compartir la información. Tris sufre un sentimiento de culpa por haber matado a su amigo Will durante la simulación, y por la muerte de sus padres, pues su madre le salvó la vida. Pronto los traidores de Sabiduría y Osadía llegan a Cordialidad. Tris dice a todos los refugiados de Abnegación que vistan y se comporten como un miembro de Cordialidad, ya que los de Erudición no saben específicamente a quién buscan. Durante la búsqueda de los traidores en el complejo, los tatuajes de Cuatro --en Cordialidad no se hacen tatuajes-- hacen que comience un tiroteo. Los refugiados corren por los campos y huertos cercanos, perseguidos por los traidores."
+        android:id="@+id/textView12" />
+</LinearLayout>
